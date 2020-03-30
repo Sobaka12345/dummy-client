@@ -1,2 +1,4 @@
 # dummy-client
-dummy file loader with PHP on serverside
+![GitHub Logo](/screenshot.png)<br>
+Dummy file loader with PHP script on serverside
+
